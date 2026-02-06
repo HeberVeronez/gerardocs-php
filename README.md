@@ -25,3 +25,5 @@ Projeto criado com foco no aprendizado de desenvolvimento backend, manipulação
 
 ## Observações
 Projeto com fins educacionais, desenvolvido para prática de conceitos fundamentais de backend.
+
+Próximo passo planejado: adicionar autenticação simples para controle de acesso.
